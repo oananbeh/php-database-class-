@@ -1,2 +1,3 @@
-# php-database-class-
-php class to deal with database
+# php-database-mysql-class-
+This class contain function operation insert , update, delete and retrive data from mysql dataBase. 
+
